@@ -1,0 +1,28 @@
+# --- Environments ---
+venv/
+env/
+.env/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- OpenCV & Data Output ---
+targetImage.png
+target_group.png
+*.jpg
+*.jpeg
+*.png
+
+# --- IDEs & OS ---
+.vscode/
+.idea/
+.project
+.pydevproject
+.DS_Store
+Thumbs.db
