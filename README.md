@@ -12,7 +12,7 @@
 
 Note for Users: If the laser isn't being detected, check your lighting. Intense overhead glare can sometimes "wash out" the laser's red signature. The system uses a dual masking approach to find the saturated white core of the laser, making it more robust than simple color filters.
 
-git clone https://github.com/yourusername/DryFire-Shot-Tracker.git
+git clone https://github.com/iordjn/DryFire-Trainer.git
     cd DryFire-Shot-Tracker
     ```
   
